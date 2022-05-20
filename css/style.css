@@ -1,0 +1,480 @@
+body {
+
+}
+
+#banner-image
+.my-banner {
+	background-size:cover;
+	background-position:center center;
+	background-repeat: no-repeat;
+}
+
+.banner-text {
+	color: white;
+	margin-top: 150px;
+	margin-bottom: 40px;
+}
+
+.banner-text h1 {
+	text-transform: uppercase;
+	font-size: 80px;
+	font-family: Calibri Light;
+	line-height: 1em;
+}
+
+.banner-text h3 {
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	font-size: 35px;
+	margin-top: 18px;
+}
+
+.banner-text p {
+	margin-bottom: 40px;
+	margin-top: 30px;
+	font-size: 22px;
+	font-family: Calibri Light;
+}
+
+.banner-text button {
+	text-transform: uppercase;
+}
+
+
+
+#all-mobile-brand
+.mobile-brand{
+	margin: 80px 0;
+	text-align: center;
+}
+
+.brand1 {
+	height: 310px;
+	background: linear-gradient(to bottom, #fe727a 0%, #f7569a 75%);
+	position:relative;
+	display:block;
+}
+
+.brand1 img {
+	height: 235px;
+}
+
+.brand2 {
+	height: 310px;
+	background: linear-gradient(to bottom, #08b4d6 0%, #a157f1 75%);
+	position:relative;
+	display:block;
+}
+
+.brand2 img {
+	height: 235px;
+}
+
+.brand3 {
+	height: 310px;
+	background: linear-gradient(to bottom, #18c4df 0%, #30a9f9 75%);
+	position:relative;
+	display:block;
+}
+
+.brand3 img {
+	height: 235px;
+}
+
+.brand4 {
+	height: 310px;
+	background: linear-gradient(to bottom, #ffa61a 0%, #ff5983 75%);
+	position:relative;
+	display:block;
+}
+
+.brand4 img {
+	height: 235px;
+}
+
+.image-overly {
+  position: absolute; 
+  bottom: 0; 
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 22px;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.image-overly:hover {
+  opacity: .3;
+}
+
+.offer-image {
+	margin-bottom: 50px;
+}
+
+.offer-banner-text {
+	margin: 25px 0 110px 20px;
+}
+
+.offer-banner-text h3 {
+	color: white;
+	text-transform: uppercase;
+}
+
+.black-friday-text {
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 25px 0 215px 0;
+}
+
+
+#product-list
+.product-color {
+	background-color: #F7F9FA;
+}
+.product-all {
+	padding-top: 30px;
+	margin-bottom: 40px;
+}
+
+.product-all h3 {
+	text-transform: uppercase;
+}
+
+.card {
+	margin-bottom: 50px;
+}
+
+.card-title {
+	font-size: 18px;
+	background-color: #F7F9FA;
+	padding: 10px 0 10px 10px;
+}
+
+.card-text {
+	font-weight: bold;
+}
+
+.card-button {
+	display: flex;
+}
+
+.card-button p {
+	margin-right: 78px;
+	font-size: 20px;
+}
+
+.footer-text h3 {
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+.footer-text p {
+	text-align: center;
+	color: white;
+}
+
+.footer-bg-image {
+	padding-bottom: 40px;
+}
+
+
+
+
+#logo
+.logo-button{
+	margin-top: 25px;
+}
+
+.second-logo img {
+	float: right;
+}
+
+.dropdown {
+	margin-top: 30px;
+}
+
+.dropdown a {
+	margin-left: 10px;
+	color: #757575;
+	background-color: white;
+	border: none;
+	font-size: 15px;
+}
+
+.dropdown i {
+	margin-left: 10px;
+}
+
+.dropdown-menu a {
+	color: black;
+	font-size: 13px;
+}
+
+.dropdown-menu a:hover, .dropdown-item:hover {
+	color: #1AA4CB;
+}
+
+
+#display
+.mobile-display {
+	background-color: #Eff0F5;
+}
+
+.arrow-menu {
+	padding: 10px;
+	font-size: 14px;
+}
+
+.arrow-menu a {
+	text-decoration: none;
+}
+
+.arrow-menu span i {
+	padding: 8px;
+	color: #CDCED1;
+}
+
+.only-color {
+	color: #1a9cb7;
+}
+
+.only-span {
+	color: #757575;
+}
+
+
+#customer
+.customer-care {
+	background-color: #2E2E54;
+}
+
+.customer-menu {
+	padding-bottom: 25px;
+}
+
+.customer-menu h3 {
+	color: white;
+	font-size: 18px;
+	margin: 20px 0 10px 0;
+	font-family: Roboto;
+}
+
+.customer-menu a {
+	color: white;
+	display: block;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: Roboto;
+}
+
+.daraz-menu {
+	padding-bottom: 20px;
+}
+
+.daraz-menu h3 {
+	color: white;
+	font-size: 18px;
+	margin: 50px 0 10px 0;
+	font-family: Roboto;
+}
+
+.daraz-menu a {
+	color: white;
+	display: block;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: Roboto;
+}
+
+.qr-code img {
+	border-radius: 10px;
+  width: 17%;
+  margin: 25px 20px 0 0;
+  display: block;
+  float: left;
+}
+
+.customer-logo img {
+	display: block;
+  padding-top: 45px;
+  width: 50px;
+}
+
+.customer-text {
+	color: #F85606;
+	line-height: 18px;
+
+}
+
+.customer-text1 {
+	color: white;
+}
+
+.image-customer-bottom {
+	margin-top: 25px
+}
+
+.image-customer-bottom a {
+	padding-right: 8px;
+}
+
+
+
+
+#allmethods
+.methods {
+}
+
+.bank-card {
+	margin: 25px 0 15px 0;
+}
+
+.bank-card h3 {
+	font-size: 18px;
+  color: #585858;
+  font-family: Roboto;
+}
+
+.bank-card img {
+	margin: 10px 8px 6px 0;
+}
+
+.bank-card p {
+	margin-top: 100px;
+	font-size: 18px;
+  color: #585858;
+  font-family: Roboto;
+}
+
+.country-flag {
+	margin: 25px 0 15px 0;
+}
+
+.country-flag h3 {
+	font-size: 18px;
+  color: #585858;
+  font-family: Roboto;
+}
+
+.country-flag img {
+	margin: 10px 6px 0 0;
+}
+
+.social-icon {
+	margin: 25px 0 15px 0;
+}
+
+.social-icon h3 {
+	font-size: 18px;
+  color: #585858;
+  font-family: Roboto;
+}
+
+.social-icon img {
+	margin: 10px 6px 0 0;
+}
+
+.verified-image {
+	margin: 25px 0 15px 0;
+}
+
+.verified-image h3 {
+	font-size: 18px;
+  color: #585858;
+  font-family: Roboto;
+}
+
+.verified-image img {
+	margin-top: 10px;
+}
+
+
+
+
+#delivery-part
+.delivery {	
+}
+
+.delivery-bg {
+	background-color: #F4F4F4;
+}
+
+.package {
+	background-color: #FAFAFA;
+	padding: 13px 8px 13px 8px;
+}
+
+.package-text {
+	font-size: 16px;
+	font-family: Roboto;
+}
+
+.package-text1 {
+	float: right;
+	font-size: 13px;
+	font-family: Roboto;
+}
+
+.all-items {
+	background-color: #FAFAFA;
+	padding: 13px 8px 0 8px;
+}
+
+.blanck-space {
+	margin-top: 10px;
+	background-color: #FAFAFA;
+}
+
+.item-2 p {
+	text-transform: uppercase;
+}
+
+.price-2 p {
+	text-transform: uppercase;
+}
+
+.quantity-2 p {
+	text-transform: uppercase;
+	text-align: right;
+}
+
+.package-delivery {
+	background-color: white;
+}
+
+
+
+.package-image img {
+	width: 100%;
+	margin: 0 20px 20px 20px;
+}
+
+.package-price h5 {
+	font-family: Roboto;
+	color: #F68645;
+	font-size: 25px;
+}
+
+.package-price a s {
+	color: #BAB7AC;
+	font-family: Roboto;
+	font-size: 20px;
+}
+
+.package-quantity p {
+	text-align: right;
+	margin: 0 20px 20px 20px;
+	font-size: 25px;
+	font-family: Roboto;
+	color: #BAB7AC;
+}
+
+.package-quantity p strong {
+	color: black;
+}
+
