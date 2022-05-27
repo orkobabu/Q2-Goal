@@ -194,6 +194,12 @@ body {
 	float: right;
 }
 
+.second-logo a i {
+	font-size: 22px;
+	color: black;
+	padding-top: 10px;
+}
+
 .dropdown {
 	margin-top: 30px;
 }
@@ -246,6 +252,27 @@ body {
 .only-span {
 	color: #757575;
 }
+
+
+
+#bottom-card
+.all-card {
+}
+
+.bg-card {
+	background-color: #Eff0F5;
+}
+
+.card-body h6 {
+	font-size: 13px;
+	font-family: Roboto;
+}
+
+
+
+
+
+
 
 
 #customer
@@ -395,6 +422,252 @@ body {
 
 
 
+#delivery-information
+.from {
+}
+
+.from-bg {
+	background-color: #F4F4F4;
+	padding-top: 13px;
+}
+
+.delivery-information {
+	background-color: white;
+	font-family: Roboto;
+}
+
+.delivery-information h4 {
+	padding: 25px 0 20px 30px;
+}
+
+.delivery-from {
+	padding: 0 50px 50px 40px;
+}
+
+.full-name {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.phone-number {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.building-house {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.colony-suburb {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.region-name {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.city-name {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.city-name input {
+  background-color: #FAFAFA;
+}
+
+.area-name {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.area-name input {
+  background-color: #FAFAFA;
+}
+
+.address-number {
+	padding-bottom: 25px;
+  font-size: 14px;
+}
+
+.select-delivery p {
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.office-box {
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.office-box p {
+	border-style: solid;
+	border-color: #0094B6;
+	border-width: 2px;
+	border-radius: 8px;
+	width: 33%;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	font-size: 14px;
+	padding: 20px;
+	background-color: #FAFDFE;
+}
+	
+.office-box a {
+	border-style: solid;
+	border-color: #F68645;
+	border-width: 2px;
+	border-radius: 8px;
+	width: 33%;
+	text-transform: uppercase;
+	margin-left: 15px;
+	font-size: 14px;
+	padding: 20px;
+	background-color: #FFF7F6;
+}
+
+.office-box p i {
+	padding-right: 10px;
+}
+
+.office-box a i {
+	padding-right: 10px;
+}
+
+
+
+.save-button {
+	text-align: right;
+}
+
+.save-button button {
+	color: white;
+	width: 50%;
+	text-transform: uppercase;
+	font-size: 18px;
+	padding: 8px;
+	margin: 5px 0 5px 0;
+	background-color: #25A5D8;
+}
+
+
+
+
+.proceed {
+	background-color: white;
+	padding: 10px;
+}
+
+.proceed-pay {
+	font-family: Roboto;
+	background-color: #DADADA;
+	text-align: center;
+	color: white;
+	border-style: solid;
+	padding: 12px 10px 0 10px;
+}
+
+.proceed-Order h4 {
+	font-family: Roboto;
+	margin-top: 10px;
+}
+
+.proceed-subtotal {
+	display: flex;
+	margin-top: 15px;
+}
+
+.proceed-subtotal p {
+	margin-right: 100px;
+	font-family: Roboto;
+	font-size: 17px;
+	color: #6D6E6E;
+}
+
+.proceed-subtotal h5 {
+	margin-left: 73px;
+	font-family: Roboto;
+}
+
+.proceed-subtotal2 {
+	display: flex;
+}
+
+.proceed-subtotal2 p {
+	margin-right: 150px;
+	font-family: Roboto;
+	font-size: 17px;
+	color: #6D6E6E;
+}
+
+.proceed-subtotal2 h5 {
+	margin-left: 100px;
+	font-family: Roboto;
+}
+
+.proceed-from {
+	display: flex;
+}
+
+.proceed-from input {
+	margin: 5px 10px 5px 0;
+	padding: 10px;
+	font-size: 18px;
+	font-family: Roboto;
+}
+
+.proceed-from button {
+	color: white;
+	width: 40%;
+	text-transform: uppercase;
+	font-size: 18px;
+	padding: 8px;
+	margin: 5px 0 5px 0;
+	background-color: #25A5D8;
+	font-family: Roboto;
+}
+
+.proceed-installment select {
+	border: none;
+	font-size: 14px;
+	padding-left: 3px;
+	padding-top: 0;
+}
+
+.proceed-total {
+	display: flex;
+	margin-top: 10px;
+}
+
+.proceed-total p {
+	font-size: 18px;
+	font-family: Roboto;
+	margin-right: 165px;
+	margin-bottom: 0;
+}
+
+.proceed-total h4 {
+	font-size: 20px;
+	font-family: Roboto;
+	color: #F68645;
+	margin-left: 100px;
+	margin-bottom: 0;
+}
+
+.proceed-VAT {
+	margin-top: 0;
+}
+
+.proceed-VAT p {
+	text-align: right;
+	font-size: 14px;
+}
+
+
+
+
 
 #delivery-part
 .delivery {	
@@ -447,17 +720,113 @@ body {
 	background-color: white;
 }
 
+.delivery-head p {
+	font-family: Roboto;
+	padding: 10px 0 0 20px;
+	font-size: 18px;
+}
 
+.delivery-type {
+	margin: 20px;
+}
+
+.delivery-option1 {
+	border-style: solid;
+	border-color: #0094B6;
+	border-width: 2px;
+	padding-bottom: 15px;
+	border-radius: 8px;
+}
+
+.delivery-option1 input {
+	float: left;
+	margin: 20px 20px 0 20px;
+}
+
+.delivery-option1 h6 {
+	font-size: 20px;
+	font-family: Roboto;
+	margin-top: 15px;
+}
+
+.delivery-option1 p {
+	margin: 18px 0 3px 50px;
+	color: #6D6E6E;
+	font-family: Roboto;
+}
+
+.delivery-option1 a {
+	margin-left: 50px;
+	color: #6D6E6E!important;
+	font-family: Roboto;
+}
+
+.delivery-option2 {
+	background-color: #F8F8F8;
+	border-style: solid;
+	border-radius: 8px;
+	border-width: 2px;
+	padding-bottom: 15px;
+	border-color: #DADADA;
+}
+
+.delivery-option2 input {
+	float: left;
+	margin: 20px 20px 0 20px;
+}
+
+.delivery-option2 h6 {
+	font-size: 20px;
+	font-family: Roboto;
+	margin-top: 15px;
+}
+
+.delivery-option2 p {
+	margin: 18px 0 3px 50px;
+	color: #6D6E6E;
+	font-family: Roboto;
+}
+
+.delivery-option2 a {
+	margin-left: 50px;
+	color: #6D6E6E!important;
+	font-family: Roboto;
+}
 
 .package-image img {
-	width: 100%;
-	margin: 0 20px 20px 20px;
+	width: 70%;
+	margin: 0 20px 20px 30px;
+}
+
+.package-quantity p strong {
+	color: black;
+}
+
+.package-text img {
+	float: left;
+}
+
+.package-text h6 {
+	color: black;
+	font-family: Roboto;
+	font-size: 20px;
+}
+
+.package-text a {
+	font-size: 16px;
+	font-family: Roboto;
+	color: #BAB7AC!important;
 }
 
 .package-price h5 {
 	font-family: Roboto;
 	color: #F68645;
 	font-size: 25px;
+}
+
+.package-price h6 {
+	font-size: 20px;
+	margin-top: 10px;
 }
 
 .package-price a s {
@@ -468,13 +837,10 @@ body {
 
 .package-quantity p {
 	text-align: right;
-	margin: 0 20px 20px 20px;
+	margin: 0 30px 20px 20px;
 	font-size: 25px;
 	font-family: Roboto;
 	color: #BAB7AC;
 }
 
-.package-quantity p strong {
-	color: black;
-}
 
