@@ -195,7 +195,7 @@ body {
 }
 
 .second-logo a i {
-	font-size: 22px;
+	font-size: 25px;
 	color: black;
 	padding-top: 10px;
 }
@@ -255,6 +255,628 @@ body {
 
 
 
+
+#order
+.order-list{
+}
+
+.phone-order {
+	background-color: #Eff0F5;
+	padding-bottom: 10px;
+}
+
+.order-details {
+	background-color: white;
+}
+
+.zoom-order hr{
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.zoom-image {
+	padding: 0 5px;
+	display: flex;
+	
+}
+
+.zoom-image button {
+	border: 0 solid;
+	background-color: white;
+	padding: 0 8px;
+}
+
+.zoom-link img {
+	width: 100%;
+	border: 1px solid #9E9E9E;
+}
+
+.zoom-link1 i {
+	color: #9E9E9E;
+	font-size: 24px;
+}
+
+.phone-zoom {
+	display: flex;
+}
+
+.order-text {
+	padding-top: 5px;
+}
+
+.order-text a{
+	font-size: 24px;
+}
+
+.order-rating {
+	padding-top: 8px;
+	padding-right: 15px;
+}
+
+.order-rating img {
+	width: 3%;
+}
+
+.order-rating a {
+	text-decoration: none;
+	font-family: Roboto;
+	font-size: 13px;
+	
+}
+
+.order-rating p {
+	font-size: 14px;
+	color: #9E9E9E;
+	padding-top: 8px;
+}
+
+.order-rating i {
+	padding-left: 30px;
+	color: #9E9E9E;
+	font-size: 18px;
+}
+
+.order-icon span {
+	padding-right: 97px;
+}
+
+.order-rating hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.order-installment {
+	padding-right: 15px;
+}
+
+.order-installment h3 {
+	font-family: Roboto;
+	color: #F57224;
+	font-size: 30px;
+}
+
+.order-installment p s{
+	font-family: Roboto;
+	color: #9E9E9E;
+}
+
+.order-installment p {
+	color: #757575;
+}
+
+.order-installment p i {
+	padding-right: 5px;
+}
+
+.order-installment p a{
+	padding-left: 25px;
+	text-decoration: none;
+	color: black;
+	font-family: Roboto;
+}
+
+.order-installment hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.buy-add {
+	display: flex;
+	padding: 10px 25px 20px 0;
+}
+
+.buy-now {
+	padding-right: 10px;
+}
+
+.buy-now button {
+	color: white;
+	font-size: 16px;
+	background-color: #26ABD4;
+	font-family: Roboto;
+	padding: 10px 80px;
+}
+
+.add-cart button {
+	color: white;
+	font-size: 16px;
+	background-color: #F57224;
+	font-family: Roboto;
+	padding: 10px 80px;
+}
+
+
+
+
+.delivery-service {
+	background-color: #FAFAFA;
+}
+
+.delivery-info {
+	padding: 20px 15px 0;
+}
+
+.delivery-info p {
+	color: #757575;
+	font-size: 13px;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+.delivery-info p i {
+	float: right;
+	color: #757575;
+	font-weight: bold;
+}
+
+.delivery-location {
+	display: flex;
+	padding: 0 15px;
+}
+
+.delivery-location i {
+	font-size: 21px;
+	color: #757575;
+}
+
+.delivery-location p {
+	font-size: 15px;
+	padding: 0 10px 10px;
+}
+
+.delivery-location a {
+	font-size: 13px;
+	padding: 5px 0 10px 10px;
+	text-decoration: none;
+	color: #1A9CB7;
+}
+
+.ful-field {
+	display: flex;
+	padding: 0 15px;
+}
+
+.ful-field i {
+	font-size: 20px;
+	color: #F3935A;
+}
+
+.ful-field p {
+	font-size: 15px;
+	padding: 0 10px 10px;
+}
+
+.delivery-service hr {
+	margin-top: 0;
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.delivery-home {
+	padding: 0 15px;
+	display: flex;
+}
+
+.delivery-home i {
+	font-size: 20px;
+	color: #757575;
+}
+
+.delivery-home p {
+	font-size: 15px;
+	padding: 0 80px 10px 10px;
+	margin-bottom: 0;
+}
+
+.delivery-home p span {
+	font-size: 13px;
+	color: #9E9E9E;
+}
+
+.delivery-home a {
+	font-family: Roboto;
+	padding: 5px 0 10px 90px;
+	font-weight: 500;
+}
+
+.delivery-express {
+	padding: 0 15px;
+	display: flex;
+}
+
+.delivery-express i {
+	font-size: 20px;
+	color: #757575;
+}
+
+.delivery-express p {
+	font-size: 15px;
+	padding: 0 80px 20px 10px;
+	margin-bottom: 0;
+}
+
+.delivery-express p span {
+	font-size: 13px;
+	color: #9E9E9E;
+}
+
+.delivery-express a {
+	font-family: Roboto;
+	padding: 5px 0 10px 82px;
+	font-weight: 500;
+}
+
+.service-info {
+	padding: 10px 15px;
+}
+
+.service-info p {
+	color: #757575;
+	font-size: 13px;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+.service-info p i {
+	float: right;
+	color: #757575;
+	font-weight: bold;
+}
+
+.service-authentic {
+	padding: 0 15px;
+	display: flex;
+}
+
+.service-authentic i {
+	font-size: 14px;
+	color: #373598;
+}
+
+.service-authentic p {
+	font-size: 15px;
+	padding: 0 80px 20px 10px;
+	margin-bottom: 0;
+}
+
+.service-authentic p span {
+	font-size: 13px;
+	color: #9E9E9E;
+}
+
+.service-warranty {
+	padding: 0 15px;
+	display: flex;
+}
+
+.service-warranty i {
+	font-size: 20px;
+	color: #757575;
+}
+
+.service-warranty p {
+	font-size: 15px;
+	padding: 0 0 20px 10px;
+	margin-bottom: 0;
+}
+
+.realme-store {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: #FAFAFA;
+}
+
+.realme-store p {
+	padding: 15px 15px 0 15px;
+	margin-bottom: 0;
+	font-size: 13px;
+	color: #757575;
+}
+
+.realme-chat {
+	display: flex;
+	padding: 0 15px;
+}
+
+.realme-chat h5 {
+	padding-right: 70px;
+}
+
+.realme-chat a {
+	text-decoration: none;
+	color: #199CB7;
+	font-weight: bold;
+	font-family: Roboto;
+	padding-left: 70px;
+}
+
+.realme-chat a i {
+	color: #199CB7;
+	font-size: 13px;
+	padding-right: 8px;
+}
+
+.realme-image img {
+	padding: 0 15px;
+}
+
+.realme-box {
+	display: flex;
+}
+
+.realme-box p {
+	width: 33.33%;
+}
+
+.realme-persent {
+	display: flex;
+	padding: 15px 15px;
+}
+
+.realme-persent h4 {
+	width: 33.33%;
+	padding-left: 10px;
+	font-family: Roboto;
+	font-size: 28px;
+}
+
+.realme-visit {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.realme-visit a {
+	text-decoration: none;
+	color: #199CB7;
+	font-weight: bold;
+}
+
+
+
+
+
+
+#product
+.product-realme {
+
+}
+
+.product-details {
+	background-color: #Eff0F5;
+}
+
+.same-store p {
+	background-color: #FAFAFA;
+	font-weight: 500;
+	padding: 15px;
+	font-size: 18px;
+	margin-bottom: 0;
+}
+
+.store-image {
+	background-color: white;
+}
+
+.store-image img {
+	width: 100%;
+}
+
+.store-text {
+	padding: 0 0 10px 10px;
+}
+
+.store-text p {
+	font-size: 13px;
+	margin: auto;
+}
+
+.store-text h5 {
+	font-family: Roboto;
+	color: #F57224;
+	margin-bottom: 0;
+}
+
+.store-text img {
+	width: 6%;
+}
+
+.all-details {
+	background-color: white;
+	padding: 0 15px;
+}
+
+.specific-product p {
+	font-size: 14px;
+	padding-left: 15px;
+}
+
+.text-middel p {
+	font-weight: 500;
+	padding: 0 0 15px 15px;
+	font-size: 18px;
+	margin-bottom: 0
+}
+
+.specific-details {
+	padding: 0 15px;
+}
+
+.specific-text-color p {
+	margin-bottom: 0;
+	color: #757575;
+	font-size: 14px;
+}
+
+.specific-what {
+	display: flex;
+	padding: 0 15px;
+}
+
+.specific-text-last p {
+	padding-left: 50px;
+}
+
+.all-details hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.specific-line hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+	margin-top: 0;
+}
+
+
+
+
+
+
+
+
+#questions
+.questions-about {
+}
+
+.questions-part {
+	background-color: #Eff0F5;
+}
+
+.header-text p {
+	background-color: #FAFAFA;
+	font-weight: 500;
+	padding: 15px 15px 15px 30px;
+	font-size: 18px;
+	margin-bottom: 0;
+}
+
+.questions-header {
+	background-color: white;
+	padding: 10px 25px 10px 30px;
+}
+
+.login-register a {
+	text-decoration: none;
+	font-family: Roboto;
+}
+
+.login-register span {
+	font-size: 13px;
+}
+
+.login-register p {
+	font-family: Roboto;
+	padding: 10px 0 10px 0;
+	font-size: 15px;
+}
+
+.login-register hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.question-answer span i{
+	text-decoration-color: white;
+	padding-right: 20px;
+}
+
+.question-answer p {
+	padding-left: 35px;
+}
+
+.question-answer hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.question-answer2 span i{
+	text-decoration-color: white;
+	padding-right: 20px;
+
+}
+
+.question-answer2 p {
+	padding-left: 35px;
+	color: #757575;
+	font-size: 13px;
+}
+
+.question-answer2 hr {
+	border-bottom: 1px solid #9E9E9E;
+	height: 0!important;
+}
+
+.page-item button {
+	border: none;
+	background-color: white;
+}
+
+.arow-button {
+	text-align: right;
+	padding: 10px 0 20px 0;
+}
+
+.arow-button button {
+	border: 0 solid;
+	background-color: #EFF0F5;
+	border-color: #DADADA;
+	padding: 0;
+	font-size: 14px;
+}
+
+.arow-button button a {
+	padding: 9px;
+	color: #757575;
+}
+
+.page-link {
+	background-color: #FAFAFA!important;
+}
+
+.page-link0 {
+	background-color: #DADADA;
+	text-color: white;
+}
+
+.page-link0 i {
+	color: white;
+}
+
+.page-link1 {
+	background-color: #1A9CB7;
+	text-decoration: none;
+	color: white!important;
+}
+
+.page-link5 {
+	border: 0!important;
+	text-decoration: none;
+	background-color: white;
+}
+
+
+
+
 #bottom-card
 .all-card {
 }
@@ -263,13 +885,49 @@ body {
 	background-color: #Eff0F5;
 }
 
+.card-text p {
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 10px;
+}
+
 .card-body h6 {
 	font-size: 13px;
 	font-family: Roboto;
 }
 
+.card-body p {
+	font-family: Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+  color: #f57224;
+  font-size: 18px;
+  line-height: 10px;
+  margin: 25px 0 0;
+}
 
+.card-body img {
+	width: 6%;
+}
 
+.card-body-other {
+	padding: 16px 16px 11px;
+}
+
+.card-body-other h6 {
+	font-size: 13px;
+	font-family: Roboto;
+}
+
+.card-body-other p {
+	font-family: Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+  color: #f57224;
+  font-size: 18px;
+  line-height: 10px;
+  margin: 15px 0 0;
+}
+
+.card-body-other img {
+	width: 6%;
+}
 
 
 
